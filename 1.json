@@ -1,0 +1,18 @@
+{
+    "title": "LCC Collectible Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "HappyDragon"
+        },
+        "description": {
+            "type": "string",
+            "description": "a happy dragon picture"
+            },
+        "image": {
+            "type": "string",
+            "description": "https://i.imgur.com/sahhbd.png"
+            }
+        }
+}
