@@ -12,7 +12,7 @@
             },
         "image": {
             "type": "string",
-            "description": "https://i.imgur.com/sahhbd.png"
+            "description": "https://github.com/Mojicode/NFTIMG/blob/main/images/dragon1.png"
             }
         }
 }
